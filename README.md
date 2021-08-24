@@ -9,3 +9,7 @@ PREMADE MINECRAFT SERVER GUIDE:
 4. Configure Server.properties
 
 5. Open RUN.BAT to start server
+
+
+(Uses PaperMC by https://papermc.io/)
+(I am not affiliated in any way with mojang, the creators of minecraft. All software belongs to them or PaperMC)
