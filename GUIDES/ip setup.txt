@@ -1,0 +1,7 @@
+To get IP:
+
+open cmd.exe
+
+type ipconfig
+
+use the ipv4 address

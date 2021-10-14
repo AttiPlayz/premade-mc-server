@@ -1,4 +1,4 @@
-PREMADE MINECRAFT SERVER GUIDE (Build 2 Edition):
+PREMADE MINECRAFT SERVER GUIDE (Build 3 Edition):
 
 1. Download GIT (https://gitforwindows.org/ for windows users)
 
@@ -10,6 +10,9 @@ PREMADE MINECRAFT SERVER GUIDE (Build 2 Edition):
 
 5. Open RUN.BAT to start server
 
+
+
+NOTE: To learn how to install plugins check the guides folder
 
 (Uses PaperMC by https://papermc.io/)
 (I am not affiliated in any way with mojang, the creators of minecraft. All software belongs to them or PaperMC)

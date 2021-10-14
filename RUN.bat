@@ -1,8 +1,8 @@
 @ECHO OFF
 
-title AttiPlayz Premade Server 1.17.1 Build 2
+title AttiPlayz Premade Server 1.17.1 Build 3
 
-echo Starting Paper 1.17.1-236
+echo Starting Paper
  
 java -Xmx1G -jar paper.jar nogui
 PAUSE

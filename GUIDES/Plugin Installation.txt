@@ -1,0 +1,1 @@
+Place plugin jar from spigot/paper/devbukkit/other in the plugins folder
