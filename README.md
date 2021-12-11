@@ -15,4 +15,4 @@ PREMADE MINECRAFT SERVER GUIDE (Build 3 Edition):
 NOTE: To learn how to install plugins check the guides folder
 
 (Uses PaperMC by https://papermc.io/)
-(I am not affiliated in any way with mojang, the creators of minecraft. All software belongs to them or PaperMC)
+(I am not affiliated in any way with mojang, the creators of minecraft. All software belongs to them or PaperMC excluding my custom installer, readme and run.bat)
