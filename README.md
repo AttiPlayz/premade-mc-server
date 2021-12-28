@@ -2,7 +2,7 @@ PREMADE MINECRAFT SERVER GUIDE (Build 3 Edition):
 
 1. Download GIT (https://gitforwindows.org/ for windows users)
 
-2. Download Install.bat in the release (https://github.com/AttiPlayz/premade-mc-server/releases)
+2. Download Install.bat in the release (https://github.com/AttiPlayz/premade-mc-server/releases/latest)
 
 3. Open install.bat
 
