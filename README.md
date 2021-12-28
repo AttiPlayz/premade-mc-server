@@ -6,6 +6,8 @@ PREMADE MINECRAFT SERVER GUIDE (Build 5 Edition):
 
 3. Open install.bat
 
+3.1. Choose 1.17
+
 4. Configure Server.properties
 
 5. Open RUN.BAT to start server
