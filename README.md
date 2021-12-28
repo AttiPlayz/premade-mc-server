@@ -1,4 +1,4 @@
-PREMADE MINECRAFT SERVER GUIDE (Build 3 Edition):
+PREMADE MINECRAFT SERVER GUIDE (Build 4.1 Edition):
 
 1. Download GIT (https://gitforwindows.org/ for windows users)
 
