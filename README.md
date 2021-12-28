@@ -1,8 +1,8 @@
-PREMADE MINECRAFT SERVER GUIDE (Build 4.1 Edition):
+PREMADE MINECRAFT SERVER GUIDE (Build 5 Edition):
 
 1. Download GIT (https://gitforwindows.org/ for windows users)
 
-2. Download Install.bat in the release (https://github.com/AttiPlayz/premade-mc-server/releases/latest)
+2. Download Install 1.17.1.bat in the release (https://github.com/AttiPlayz/premade-mc-server/releases/latest)
 
 3. Open install.bat
 
