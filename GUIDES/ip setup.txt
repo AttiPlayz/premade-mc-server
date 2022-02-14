@@ -8,3 +8,5 @@ use the ipv4 address in either:
 Wireless LAN adapter Wi-Fi
 or
 Wireless LAN adapter Local Area Connection
+
+NOTE: THE ABOVE IS BASED ON WEATHER YOU USE LAN OR WIFI, IF YOU NEED ASSISTANCE CHECK OUT A BETTER GUIDE

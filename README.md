@@ -1,13 +1,12 @@
 PREMADE MINECRAFT SERVER GUIDE (Build 6 Edition):
 
-
 1. Download GIT (https://gitforwindows.org/ for windows users)
 
-2. Download install.bat in the latest release (https://github.com/AttiPlayz/premade-mc-server/releases/latest)
+2. Download install.bat in the release (https://github.com/AttiPlayz/premade-mc-server/releases/latest)
 
 3. Open install.bat
 
-3.1. Choose 1.18.1 or 1.17.1 
+3.1. Choose 1.17.1 or 1.18.1
 
 4. Configure Server.properties
 
