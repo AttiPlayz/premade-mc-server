@@ -1,1 +1,3 @@
-Place plugin jar from spigot/paper/devbukkit/other in the plugins folder
+1. Download the Plugin (Some good sites are: spigotmc.org, dev.bukkit.org)
+2. Place the plugin in the plugins folder
+3. Restart server

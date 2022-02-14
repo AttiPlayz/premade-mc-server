@@ -1,6 +1,6 @@
 @ECHO OFF
 
-title AttiPlayz Premade Server 1.17.1 Build 5
+title AttiPlayz Premade Server 1.18.1 Build 5
 
 echo Starting Paper
  

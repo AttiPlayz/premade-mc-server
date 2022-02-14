@@ -4,4 +4,7 @@ open cmd.exe
 
 type ipconfig
 
-use the ipv4 address
+use the ipv4 address in either:
+Wireless LAN adapter Wi-Fi
+or
+Wireless LAN adapter Local Area Connection
