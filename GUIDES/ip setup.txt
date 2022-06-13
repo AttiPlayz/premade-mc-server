@@ -8,3 +8,6 @@ use the ipv4 address in either:
 Wireless LAN adapter Wi-Fi
 or
 Wireless LAN adapter Local Area Connection
+
+
+NOTE: THIS IS NOT A GUIDE TO PORT FORWARD. IF YOU WANT THAT THEN LOOK IT UP
