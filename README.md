@@ -1,4 +1,4 @@
-PREMADE MINECRAFT SERVER GUIDE (Build 6 Edition):
+PREMADE MINECRAFT SERVER GUIDE (Build 7 Edition):
 
 
 1. Download GIT (https://gitforwindows.org/ for windows users)
@@ -7,7 +7,7 @@ PREMADE MINECRAFT SERVER GUIDE (Build 6 Edition):
 
 3. Open install.bat
 
-3.1. Choose 1.18.1 or 1.17.1 
+3.1. Choose 1.19, 1.18.1 or 1.17.1 
 
 4. Configure Server.properties
 
